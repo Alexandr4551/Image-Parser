@@ -1,1 +1,1 @@
-# this script allows you to download images from websites
+# this is script allows you to download images from websites
